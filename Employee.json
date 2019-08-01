@@ -1,0 +1,218 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "sports": {
+    "name": "cricket"
+  },
+  "catagory":[
+    [
+      {
+        "id": 1,
+        "category_name": "Casual Shirts",
+        "parent_category": {
+          "id": 1,
+          "parent_name": "Men"
+        },
+        "group_category": {
+          "id": 1,
+          "group_name": "Topwear"
+        }
+      },
+      {
+        "id": 2,
+        "category_name": "T-Shirts",
+        "parent_category": {
+          "id": 1,
+          "parent_name": "Men"
+        },
+        "group_category": {
+          "id": 1,
+          "group_name": "Topwear"
+        }
+      },
+      {
+        "id": 3,
+        "category_name": "Sweatshirts",
+        "parent_category": {
+          "id": 1,
+          "parent_name": "Men"
+        },
+        "group_category": {
+          "id": 1,
+          "group_name": "Topwear"
+        }
+      },
+      {
+        "id": 4,
+        "category_name": "Formal Shirts",
+        "parent_category": {
+          "id": 1,
+          "parent_name": "Men"
+        },
+        "group_category": {
+          "id": 1,
+          "group_name": "Topwear"
+        }
+      },
+      {
+        "id": 5,
+        "category_name": "Jeans",
+        "parent_category": {
+          "id": 1,
+          "parent_name": "Men"
+        },
+        "group_category": {
+          "id": 2,
+          "group_name": "Bottomwear"
+        }
+      },
+      {
+        "id": 6,
+        "category_name": "Trousers",
+        "parent_category": {
+          "id": 1,
+          "parent_name": "Men"
+        },
+        "group_category": {
+          "id": 2,
+          "group_name": "Bottomwear"
+        }
+      },
+      {
+        "id": 7,
+        "category_name": "Trousers",
+        "parent_category": {
+          "id": 1,
+          "parent_name": "Men"
+        },
+        "group_category": {
+          "id": 2,
+          "group_name": "Bottomwear"
+        }
+      },
+      {
+        "id": 8,
+        "category_name": "Track Pants",
+        "parent_category": {
+          "id": 1,
+          "parent_name": "Men"
+        },
+        "group_category": {
+          "id": 2,
+          "group_name": "Bottomwear"
+        }
+      },
+      {
+        "id": 9,
+        "category_name": "Kurtas",
+        "parent_category": {
+          "id": 2,
+          "parent_name": "Women"
+        },
+        "group_category": {
+          "id": 3,
+          "group_name": "Fusion Wear"
+        }
+      },
+      {
+        "id": 10,
+        "category_name": "Sarees",
+        "parent_category": {
+          "id": 2,
+          "parent_name": "Women"
+        },
+        "group_category": {
+          "id": 3,
+          "group_name": "Fusion Wear"
+        }
+      },
+      {
+        "id": 11,
+        "category_name": "Kurta Sets",
+        "parent_category": {
+          "id": 2,
+          "parent_name": "Women"
+        },
+        "group_category": {
+          "id": 3,
+          "group_name": "Fusion Wear"
+        }
+      },
+      {
+        "id": 12,
+        "category_name": "Dupatta",
+        "parent_category": {
+          "id": 2,
+          "parent_name": "Women"
+        },
+        "group_category": {
+          "id": 3,
+          "group_name": "Fusion Wear"
+        }
+      },
+      {
+        "id": 13,
+        "category_name": "Tops",
+        "parent_category": {
+          "id": 2,
+          "parent_name": "Women"
+        },
+        "group_category": {
+          "id": 4,
+          "group_name": "Western Wear"
+        }
+      },
+      {
+        "id": 14,
+        "category_name": "Tshirts",
+        "parent_category": {
+          "id": 2,
+          "parent_name": "Women"
+        },
+        "group_category": {
+          "id": 4,
+          "group_name": "Western Wear"
+        }
+      },
+      {
+        "id": 15,
+        "category_name": "Jeans",
+        "parent_category": {
+          "id": 2,
+          "parent_name": "Women"
+        },
+        "group_category": {
+          "id": 4,
+          "group_name": "Western Wear"
+        }
+      },
+      {
+        "id": 16,
+        "category_name": "Shirts",
+        "parent_category": {
+          "id": 2,
+          "parent_name": "Women"
+        },
+        "group_category": {
+          "id": 4,
+          "group_name": "Western Wear"
+        }
+      }
+    ]
+  ]
+}
